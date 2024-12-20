@@ -1,0 +1,3 @@
+total sentences: 470
+sentences with sentiment score more than 0.5 : 392
+average sentiment score: 0.8059

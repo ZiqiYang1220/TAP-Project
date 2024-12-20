@@ -1,0 +1,12 @@
+Topic 1: keywords：市场, 利率, 政策, 支持, 贷款, 人民银行, 企业, 资本, 上市公司, 发展
+Topic 2: keywords：增长, 利率, 贷款, 存款, 支持, 货币政策, 降低, 万亿元, 政策, 降准
+Topic 3: keywords：市场, 支持, 政策, 贷款, 发展, 利率, 资本, 人民银行, 货币政策, 投资
+Topic 4: keywords：content, 市场, 支持, 贷款, 利率, 政策, 货币政策, 发展, 资金, 经济
+Document 1 relavant to 3 ，weight: 0.624940，indicating the text relavent to 3，including：content, 市场, 支持, 贷款, 利率, 政策, 货币政策, 发展, 资金, 经济
+Document 2 relavant to 2 ，weight: 0.999126，indicating the text relavent to 2，including：市场, 支持, 政策, 贷款, 发展, 利率, 资本, 人民银行, 货币政策, 投资
+Document 3 relavant to 3 ，weight: 0.624940，indicating the text relavent to 3，including：content, 市场, 支持, 贷款, 利率, 政策, 货币政策, 发展, 资金, 经济
+Document 4 relavant to 2 ，weight: 0.998953，indicating the text relavent to 2，including：市场, 支持, 政策, 贷款, 发展, 利率, 资本, 人民银行, 货币政策, 投资
+Document 5 relavant to 3 ，weight: 0.624940，indicating the text relavent to 3，including：content, 市场, 支持, 贷款, 利率, 政策, 货币政策, 发展, 资金, 经济
+Document 6 relavant to 2 ，weight: 0.999874，indicating the text relavent to 2，including：市场, 支持, 政策, 贷款, 发展, 利率, 资本, 人民银行, 货币政策, 投资
+Document 7 relavant to 3 ，weight: 0.624940，indicating the text relavent to 3，including：content, 市场, 支持, 贷款, 利率, 政策, 货币政策, 发展, 资金, 经济
+Document 8 relavant to 1 ，weight: 0.998436，indicating the text relavent to 1，including：增长, 利率, 贷款, 存款, 支持, 货币政策, 降低, 万亿元, 政策, 降准
